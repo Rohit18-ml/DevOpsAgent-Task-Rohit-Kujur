@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": 1751817702,
+    "cpu_usage": 100.0,
+    "analysis": "No logs available, check Loki and Promtail configurations",
+    "logs": "",
+    "remediation": "No action taken"
+  },
+  {
+    "timestamp": 1751819865,
+    "cpu_usage": 100.0,
+    "analysis": "Possible causes for high CPU usage include an OutOfMemory error and an infinite loop in the app, indicating resource-intensive processes or a memory leak. Suggested remediation: Restart the app container and investigate the application code for infinite loops or memory leaks.",
+    "logs": "2025-07-06 14:59:16,937 - ERROR - OutOfMemory in app\n2025-07-06 14:59:04,633 - ERROR - OutOfMemory in app",
+    "remediation": "Restarted app container"
+  },
+  {
+    "timestamp": 1751819917,
+    "cpu_usage": 100.0,
+    "analysis": "Possible causes for high CPU usage include an OutOfMemory error and an infinite loop in the app, indicating resource-intensive processes or a memory leak. Suggested remediation: Restart the app container and investigate the application code for infinite loops or memory leaks.",
+    "logs": "2025-07-06 14:59:16,937 - ERROR - OutOfMemory in app\n2025-07-06 14:59:04,633 - ERROR - OutOfMemory in app",
+    "remediation": "Restarted app container"
+  },
+  {
+    "timestamp": 1751819969,
+    "cpu_usage": 100.0,
+    "analysis": "Possible causes for high CPU usage include an OutOfMemory error and an infinite loop in the app, indicating resource-intensive processes or a memory leak. Suggested remediation: Restart the app container and investigate the application code for infinite loops or memory leaks.",
+    "logs": "2025-07-06 14:59:16,937 - ERROR - OutOfMemory in app\n2025-07-06 14:59:04,633 - ERROR - OutOfMemory in app",
+    "remediation": "Restarted app container"
+  },
+  {
+    "timestamp": 1751820020,
+    "cpu_usage": 100.0,
+    "analysis": "Possible causes for high CPU usage include an OutOfMemory error and an infinite loop in the app, indicating resource-intensive processes or a memory leak. Suggested remediation: Restart the app container and investigate the application code for infinite loops or memory leaks.",
+    "logs": "2025-07-06 14:59:16,937 - ERROR - OutOfMemory in app\n2025-07-06 14:59:04,633 - ERROR - OutOfMemory in app",
+    "remediation": "Restarted app container"
+  },
+  {
+    "timestamp": 1751820317,
+    "cpu_usage": 34.058486289497836,
+    "analysis": "Possible causes for high CPU usage include an OutOfMemory error and an infinite loop in the app, indicating resource-intensive processes or a memory leak. Suggested remediation: Restart the app container and investigate the application code for infinite loops or memory leaks.",
+    "logs": "2025-07-06 14:59:16,937 - ERROR - OutOfMemory in app\n2025-07-06 14:59:04,633 - ERROR - OutOfMemory in app",
+    "remediation": "Restarted app container"
+  },
+  {
+    "timestamp": 1751820456,
+    "cpu_usage": 100.0,
+    "analysis": "Possible causes for high CPU usage include an OutOfMemory error and an infinite loop in the app, indicating resource-intensive processes or a memory leak. Suggested remediation: Restart the app container and investigate the application code for infinite loops or memory leaks.",
+    "logs": "2025-07-06 14:59:16,937 - ERROR - OutOfMemory in app\n2025-07-06 14:59:04,633 - ERROR - OutOfMemory in app",
+    "remediation": "Restarted app container"
+  },
+  {
+    "timestamp": 1751822782,
+    "cpu_usage": 100.0,
+    "analysis": "No recent logs available, check Loki and Promtail configurations",
+    "logs": "",
+    "remediation": "No action taken"
+  },
+  {
+    "timestamp": 1751823382,
+    "cpu_usage": 100.0,
+    "analysis": "No recent logs available, check Loki and Promtail configurations",
+    "logs": "",
+    "remediation": "No action taken"
+  }
+]
